@@ -1,2 +1,5 @@
 # learngit
-Repo to learn work with Git and Github
+
+Default Language: PT_BR
+
+Este repositório é destinado ao estudo de Git e Github.
